@@ -1,7 +1,7 @@
 # Travel Brochure Project
 
 - This is a project designed by myself and some fellow NSS Cohort 55 members to design a static website that will display information about a country when visited.
-- Website designed using only javascript, css, and html.
+- Website designed using only javascript, css, and html. (more on project requirements here: https://github.com/nss-day-cohort-51/automated-world)
 - My contributions include styling and scripting work for the navbar, brainstorming design templates, sourcing images for the website to use, some other scripting found within the website, & quality control.
 
 
