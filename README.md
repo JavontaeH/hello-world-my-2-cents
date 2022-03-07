@@ -13,7 +13,9 @@
 1. copy % paste local port from serve command into browser 
 
 
-## Difficulties: 
+## Difficulties:
+
+- First ever group project working with git/github so some workflow difficulties there as well as learning on the go with CSS (specifically flexbox). First time having to dynamically inject into html using JS functions caused some difficulty as well.
 
 ## Team Members: 
 1. https://github.com/Nayhee 
